@@ -1,7 +1,6 @@
-/* 
-File: treeprint.h
-https://github.com/aufheben68
- */
+//File: treeprint.h
+//https://github.com/aufheben68
+
 
 #include <stdlib.h>
 #include <stdio.h> 
