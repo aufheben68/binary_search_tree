@@ -11,3 +11,4 @@ It also implements the following operations:
  - Find the maximum value of the tree.
  - Find the successor of a number. 
  - Print the total sum of nodes.
+ - Print the sum of nodes of a given subtree.
