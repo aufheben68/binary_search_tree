@@ -1,10 +1,6 @@
 /* 
- * File: treeprint.h
- *
- * Periexei th dhlwsi tou kombou enos dyadikou dentrou kai
- * th leitourgia printTree gia thn ektypwsi tou dentrou
- * kata epipeda
- *
+File: treeprint.h
+https://github.com/aufheben68
  */
 
 #include <stdlib.h>
