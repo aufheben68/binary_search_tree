@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	TreeNode *T=NULL;
     char word[31];
     int x;
-    printf("Dwste entoles:\n");
+    printf("Please give an operation:\n");
     while (1) {
 	scanf("%s",word);
 	if ((strcmp(word, "insert")==0)) {
